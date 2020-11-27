@@ -175,6 +175,12 @@ h3 {
     padding: 5px;
     
   }
+  .column-three {
+    float: left;
+    width: 33%;
+    padding: 3px;
+    
+  }
   .column-four {
     float: left;
     width: 24%;
@@ -203,6 +209,15 @@ h3 {
     margin-top: -5px; 
     width:375px; 
     text-align: center;
+  }
+
+  .three-video-title {
+    background: rgb(88, 88, 88); 
+    color: rgb(240, 240, 240); 
+    margin-top: -5px; 
+    width:300px; 
+    text-align: center;
+    font-size: 18px;
   }
 
   .video-title {
