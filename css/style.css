@@ -362,6 +362,8 @@ span.description-colorChange {
 .audio-icon {
     float: right;
     margin-right: 10px;
+    font-size: medium;
+    transform: translateY(-60%);
 }
 
 .primary-video-title {
