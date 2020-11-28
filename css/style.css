@@ -422,3 +422,15 @@ span.description-colorChange {
 .link-hover:hover {
     background-color: orange;
 }
+
+
+/* About page */
+
+.video-resume {
+    background: rgb(88, 88, 88);
+    color: rgb(240, 240, 240);
+    margin-top: -5px;
+    margin-left: 179px;
+    width: 250px;
+    text-align: center;
+}
