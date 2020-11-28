@@ -146,6 +146,7 @@ h3 {
     top: 0;
     left: 0;
     padding-top: -10;
+    
     width: 100%;
 }
 
@@ -434,3 +435,16 @@ span.description-colorChange {
     width: 250px;
     text-align: center;
 }
+
+/*Social Media Icons*/
+/* .social-wrapper {
+    text-align: center;
+    float: right;
+    transform: translateY(-50%);
+}
+.site-footer {
+    background-color: none;
+      text-align: center;
+      margin: 10px 0;
+      padding: 10px 0;
+  } */
