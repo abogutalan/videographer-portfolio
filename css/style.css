@@ -412,8 +412,8 @@ span.description-colorChange {
 }
 
 .paragraph-title a {
-    font-size: 14px;
-    color: grey;
+    font-size: 18px;
+    /* color: grey; */
 }
 
 .television-footer {
@@ -421,7 +421,7 @@ span.description-colorChange {
 }
 
 .link-hover:hover {
-    background-color: orange;
+    color: orange;
 }
 
 
